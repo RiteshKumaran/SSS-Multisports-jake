@@ -1,0 +1,6 @@
+1. Create GitHub
+2. Push my code to a new repository
+3. Make a vercel acc rom GitHub
+4. Import my GitHub proj into vercel
+
+yt: how to deploy a react proj n vercel.
